@@ -1,0 +1,10 @@
+Kamar 101 | Standard | Harga: Rp 300000
+Kamar 102 | Standard | Harga: Rp 300000
+Kamar 103 | Standard | Harga: Rp 300000
+Kamar 104 | Deluxe | Harga: Rp 500000
+Kamar 105 | Deluxe | Harga: Rp 500000
+Kamar 106 | Deluxe | Harga: Rp 500000
+Kamar 107 | Deluxe | Harga: Rp 500000
+Kamar 108 | Suite | Harga: Rp 800000
+Kamar 109 | Suite | Harga: Rp 800000
+Kamar 110 | Suite | Harga: Rp 800000
