@@ -252,7 +252,6 @@ void cetakStrukFileReservasi(const Reservasi *r, int saat) {
     fprintf(fp, "=========================================================\n");
     fprintf(fp, "| %-15s | %-25s |\n", "Data", "Keterangan");
     fprintf(fp, "---------------------------------------------------------\n");
-    fprintf(fp, "| %-15s | %-25s |\n", "ID Reservasi", "");
     fprintf(fp, "| %-15s | %-25d |\n", "ID Reservasi", r->id_reservasi);
     fprintf(fp, "| %-15s | %-25s |\n", "Nama Tamu", r->nama_pemesan);
     fprintf(fp, "| %-15s | %-25s |\n", "Check-in", r->tgl_checkin);
@@ -461,4 +460,5 @@ int main(void) {
     } while (pilihan != 5);
 
     return 0;
+
 }
